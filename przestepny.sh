@@ -21,3 +21,5 @@ else
 	echo "nie jest przestepny"
 fi
 
+
+#testy testy

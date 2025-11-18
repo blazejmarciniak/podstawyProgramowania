@@ -1,6 +1,5 @@
 #!/user/bin/bash
 read -p "podaj rok: " rok
-#test
 if (( $rok%400==0 )); then
 	echo "$rok jest przestepny"
 else

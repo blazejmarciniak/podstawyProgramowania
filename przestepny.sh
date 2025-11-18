@@ -20,7 +20,3 @@ if (($rok%400==0)) || (($rok%4==0 && $rok%100!=0));then
 else
 	echo "nie jest przestepny"
 fi
-
-
-gtesty testy
-#no to teraz testy

@@ -22,4 +22,5 @@ else
 fi
 
 
-#testy testy
+gtesty testy
+#no to teraz testy

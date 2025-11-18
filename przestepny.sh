@@ -15,7 +15,7 @@ else
 	fi
 fi
 
-if (($rok%400==0)) || (($rok%4==0 && $rok%100!=0));then
+if (($rok%400==0)) && (($rok%4==0 && $rok%100!=0));then
 	echo "przestepny"
 else
 	echo "nie jest przestepny"
